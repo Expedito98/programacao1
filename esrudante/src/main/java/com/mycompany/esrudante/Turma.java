@@ -13,6 +13,12 @@ import java.util.Set;
  */
 public class Turma {
     
+    
+    private String nomedaturma;
+    private int entradadeingre;
+    
+    
+    
     private Estudante discente = new Estudante(); 
     private Disciplina disciplina = new Disciplina();
     private Professor professor = new Professor();
