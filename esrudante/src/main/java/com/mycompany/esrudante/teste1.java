@@ -15,7 +15,7 @@ public class teste1 {
      Estudante gustavo = new Estudante();
      Estudante bababado = new Estudante();
      
-     cleiton.netNome()
+     
 
        }
 
