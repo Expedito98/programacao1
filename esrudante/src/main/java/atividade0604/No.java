@@ -15,27 +15,27 @@ public class No {
     private No proximo;
 
     public String getNome() {
-        return nome;
+        return this.nome;
     }
 
     public void setNome(String _nome) {
-        nome = _nome;
+        this.nome = _nome;
     }
 
     public int getCodigo() {
-        return codigo;
+        return this.codigo;
     }
 
     public void setCodigo(int _codigo) {
-        codigo = _codigo;
+        this.codigo = _codigo;
     }
     
     public No getProximo() {
-        return proximo;
+        return this.proximo;
     }
 
     public void setProximo(No _proximo) {
-        proximo = _proximo;
+        this.proximo = _proximo;
     }
     
     
