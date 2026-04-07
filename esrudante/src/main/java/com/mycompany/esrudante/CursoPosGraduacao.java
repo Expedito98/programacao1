@@ -24,7 +24,7 @@ public class CursoPosGraduacao extends Curso {
 
     public String getAreaPesquisa() {
         return areaPesquisa;
-    }
+    }   
 
     public void setAreaPesquisa(String _areaPesquisa) {
         areaPesquisa = _areaPesquisa;
@@ -33,4 +33,5 @@ public class CursoPosGraduacao extends Curso {
     public void validarDissertacao() {
         System.out.println(" a Disertaçao ou a tese é aceito ");
     }
+    
 }

@@ -29,7 +29,7 @@ public class CursoTecnico extends Curso {
         cargaEstagio = _cargaEstagio;
     }
 
-    public boolean estagioObrigatorio() {
+        public boolean estagioObrigatorio() {
         if (cargaEstagio > 0) {
             return true;
         } else {

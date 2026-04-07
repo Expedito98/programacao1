@@ -29,7 +29,7 @@ public class CursoGraduacao extends Curso {
         tccObrigatorio = _tccObrigatorio;
     }
 
-    public boolean validarTCC() {
+        public boolean validarTCC() {
         if (tccObrigatorio == true) {
             return true;
         } else {
